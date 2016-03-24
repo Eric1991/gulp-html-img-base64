@@ -1,0 +1,25 @@
+{
+  "name": "gulp-html-img-base64",
+  "version": "0.0.2",
+  "description": "replace html included imageUrl to base64",
+  "author": {
+    "name": "Eric1991",
+    "email": "413866383@qq.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "gulp",
+    "plugin"
+  ],
+  "author": "Eric1991",
+  "license": "MIT",
+  "dependencies": {
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {
+    "through2": "^2.0.0"
+  }
+}
